@@ -7,6 +7,7 @@ using OgmoEditor.LevelData;
 using OgmoEditor.LevelEditors;
 using OgmoEditor.Windows;
 using OgmoEditor.Windows.Utilities;
+using Timer = System.Windows.Forms.Timer;
 
 namespace OgmoEditor
 {
